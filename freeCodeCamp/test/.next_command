@@ -230,3 +230,4 @@ mv robonto.woff fonts
 mv robonto.woff fonts
 mv roboto.woff fonts
 find
+mv lato.ttf fonts
