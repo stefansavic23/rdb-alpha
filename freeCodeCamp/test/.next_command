@@ -247,3 +247,4 @@ ls --color=auto
 mv styless.css client/src
 mv styles.css client/src
 find
+find client
