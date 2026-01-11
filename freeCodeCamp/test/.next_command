@@ -112,3 +112,4 @@ ls --color=auto
 cd ../..
 clear
 ls --color=auto
+clear
