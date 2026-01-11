@@ -131,3 +131,5 @@ ls --color=auto -a
 cd .
 touch backgroung.jpg
 touch background.jpg
+touch header.jpg
+touch header.png
