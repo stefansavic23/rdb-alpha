@@ -167,3 +167,4 @@ ls --color=auto
 clear
 ls --color=auto
 rm header.png
+rm footer.jpeg
