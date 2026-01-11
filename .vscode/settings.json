@@ -8,7 +8,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit"
   },
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": "off",
   "editor.inlineSuggest.enabled": false,
   "editor.minimap.enabled": false,
   "editor.parameterHints.enabled": false,
@@ -48,7 +48,9 @@
   "npm.fetchOnlinePackageInfo": false,
   "task.slowProviderWarning": false,
   "terminal.integrated.allowChords": false,
-  "terminal.integrated.commandsToSkipShell": ["coderoad.enter"],
+  "terminal.integrated.commandsToSkipShell": [
+    "coderoad.enter"
+  ],
   "terminal.integrated.enableFileLinks": false,
   "terminal.integrated.environmentChangesIndicator": "off",
   "terminal.integrated.macOptionIsMeta": true,
