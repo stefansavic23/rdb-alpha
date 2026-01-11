@@ -120,3 +120,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 echo hello website
 touch index.html
+touch styles.css
