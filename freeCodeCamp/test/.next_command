@@ -67,3 +67,23 @@ more license
 more LICENSE-MIT
 clear
 ls --color=auto
+cd ..
+cd ..
+cd src
+ls --color=auto
+cd ..
+ls --color=auto
+cd ..
+__vsc_prompt_cmd_original
+ls --color=auto
+cd projct
+clear
+cd project
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd has
+ls --color=auto
+cd src
