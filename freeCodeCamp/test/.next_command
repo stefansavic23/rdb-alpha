@@ -40,3 +40,4 @@ echo hello terminal
 __vsc_prompt_cmd_original
 clear
 pwd
+ls --color=auto
