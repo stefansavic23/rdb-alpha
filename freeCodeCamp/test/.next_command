@@ -271,3 +271,6 @@ ls --color=auto
 find
 find -name images
 mv header.png ./client/assets/images
+find -name headers
+find -name header
+find -name header.png
