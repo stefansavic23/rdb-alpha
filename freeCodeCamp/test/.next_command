@@ -89,3 +89,4 @@ ls --color=auto
 cd src
 clear
 pwd
+ls --color=auto
