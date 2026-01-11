@@ -46,3 +46,5 @@ pwd
 ls --color=auto
 clear
 cd test
+__vsc_prompt_cmd_original
+pwd
