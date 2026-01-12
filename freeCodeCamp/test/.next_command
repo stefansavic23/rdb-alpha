@@ -535,3 +535,5 @@ find
 rmdir --help
 clear
 rm --help
+clear
+rm -r fonts
