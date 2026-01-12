@@ -525,3 +525,4 @@ cd ..
 cd ..
 find client/assets/fons
 find client/assets/fonts
+touch ./client/assets/fonts/lato-bold.ttf
