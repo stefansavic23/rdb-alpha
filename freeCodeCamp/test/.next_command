@@ -513,3 +513,15 @@ clear
 mkdir ./client/assets/fonts
 touch ./client/assets/fonts/roboto-bold.woff
 touch ./client/assets/fonts/roboto-light.woff
+find
+cd client
+find
+cd assets
+find
+cd fonts
+find
+cd ..
+cd ..
+cd ..
+find client/assets/fons
+find client/assets/fonts
