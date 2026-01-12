@@ -526,3 +526,8 @@ cd ..
 find client/assets/fons
 find client/assets/fonts
 touch ./client/assets/fonts/lato-bold.ttf
+touch ./client/asstes/fonts/lato-light.ttf
+touch ./client/asstes/fonts/lato-light.ttf
+touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
