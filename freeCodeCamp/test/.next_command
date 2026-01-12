@@ -507,3 +507,4 @@ mv CodeRoad.svg ./client/assets/icons
 __vsc_prompt_cmd_original
 ls --color=auto
 mv CodeRoad.svg ./client/assets/icons
+mv freeCodeCamp.svg ./client/assets/icons
